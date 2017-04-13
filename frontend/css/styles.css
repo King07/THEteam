@@ -1,4 +1,18 @@
 
+.text--blue
+{
+	color:#0998ff;
+}
+
+.box-shadow
+{
+	box-shadow:0px 1px 6px rgba(0,0,0,0.4);
+	position:relative;
+	overflow:hidden;
+	padding:20px;
+}
+
+
 .first_fs_container
 {
 	height: calc(100vh - 50px); 
@@ -84,4 +98,18 @@
 
 	padding-left:20px;
 	padding-right:20px;
+}
+
+
+.guide__profile
+{
+	margin-bottom:20px;
+}
+
+.guide__profile-img
+{
+	background-size:cover;
+	width:150px;
+	height:150px;
+	border-radius:50%;
 }
